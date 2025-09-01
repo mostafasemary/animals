@@ -3,3 +3,5 @@ fish
 chickens
 cows
 goats
+forgs
+red panda
